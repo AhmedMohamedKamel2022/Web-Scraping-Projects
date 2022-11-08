@@ -1,0 +1,3 @@
+Data.csv --> scrapped 1000 questions with code(scrapped file).
+mcq_data.csv --> scrapped mcq questions from pages 75 with code(mcq_scrapped file).
+NLP_data.csv --> merge between two csv files with code (merge _two _scrapped_data file).
